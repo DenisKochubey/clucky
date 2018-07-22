@@ -4,8 +4,8 @@ REST framework requires the following:
 
 Python==3.5
 
-$pip install Django==2.0
-$pip install djangorestframework==3.8.2
+pip install Django==2.0
+pip install djangorestframework==3.8.2
 
 The following packages are optional:
 
